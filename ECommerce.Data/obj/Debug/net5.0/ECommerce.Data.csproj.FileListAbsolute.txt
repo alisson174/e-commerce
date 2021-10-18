@@ -1,0 +1,17 @@
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.deps.json
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.runtimeconfig.json
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.runtimeconfig.dev.json
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.dll
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ref\ECommerce.Data.dll
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ECommerce.Data.pdb
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ECommerce.Domain.dll
+D:\Projetos\ECommerce\ECommerce.Data\bin\Debug\net5.0\ECommerce.Domain.pdb
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.csproj.AssemblyReference.cache
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.AssemblyInfoInputs.cache
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.AssemblyInfo.cs
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.dll
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ref\ECommerce.Data.dll
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.pdb
+D:\Projetos\ECommerce\ECommerce.Data\obj\Debug\net5.0\ECommerce.Data.genruntimeconfig.cache
