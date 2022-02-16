@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\ECommerce\\ECommerce.IoC\\ECommerce.IoC.csproj": {}
+    "C:\\Projetos\\Ecomerce\\ECommerce.IoC\\ECommerce.IoC.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj": {
+    "C:\\Projetos\\Ecomerce\\ECommerce.Application\\ECommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj",
+        "projectUniqueName": "C:\\Projetos\\Ecomerce\\ECommerce.Application\\ECommerce.Application.csproj",
         "projectName": "ECommerce.Application",
-        "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ECommerce\\ECommerce.Application\\obj\\",
+        "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Application\\ECommerce.Application.csproj",
+        "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Ecomerce\\ECommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -32,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj"
               },
-              "D:\\Projetos\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj": {
-                "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj"
+              "C:\\Projetos\\Ecomerce\\ECommerce.Service\\ECommerce.Service.csproj": {
+                "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Service\\ECommerce.Service.csproj"
               }
             }
           }
@@ -69,22 +69,22 @@
         }
       }
     },
-    "D:\\Projetos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+    "C:\\Projetos\\Ecomerce\\ECommerce.Data\\ECommerce.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "projectUniqueName": "C:\\Projetos\\Ecomerce\\ECommerce.Data\\ECommerce.Data.csproj",
         "projectName": "ECommerce.Data",
-        "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ECommerce\\ECommerce.Data\\obj\\",
+        "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Data\\ECommerce.Data.csproj",
+        "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Ecomerce\\ECommerce.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -97,8 +97,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj"
               }
             }
           }
@@ -155,22 +155,22 @@
         }
       }
     },
-    "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+    "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
         "projectName": "ECommerce.Domain",
-        "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ECommerce\\ECommerce.Domain\\obj\\",
+        "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -227,22 +227,22 @@
         }
       }
     },
-    "D:\\Projetos\\ECommerce\\ECommerce.IoC\\ECommerce.IoC.csproj": {
+    "C:\\Projetos\\Ecomerce\\ECommerce.IoC\\ECommerce.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ECommerce\\ECommerce.IoC\\ECommerce.IoC.csproj",
+        "projectUniqueName": "C:\\Projetos\\Ecomerce\\ECommerce.IoC\\ECommerce.IoC.csproj",
         "projectName": "ECommerce.IoC",
-        "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.IoC\\ECommerce.IoC.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ECommerce\\ECommerce.IoC\\obj\\",
+        "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.IoC\\ECommerce.IoC.csproj",
+        "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Ecomerce\\ECommerce.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -255,8 +255,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projetos\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj": {
-                "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Application\\ECommerce.Application.csproj"
+              "C:\\Projetos\\Ecomerce\\ECommerce.Application\\ECommerce.Application.csproj": {
+                "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Application\\ECommerce.Application.csproj"
               }
             }
           }
@@ -295,22 +295,22 @@
         }
       }
     },
-    "D:\\Projetos\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj": {
+    "C:\\Projetos\\Ecomerce\\ECommerce.Service\\ECommerce.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj",
+        "projectUniqueName": "C:\\Projetos\\Ecomerce\\ECommerce.Service\\ECommerce.Service.csproj",
         "projectName": "ECommerce.Service",
-        "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Service\\ECommerce.Service.csproj",
-        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\ECommerce\\ECommerce.Service\\obj\\",
+        "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Service\\ECommerce.Service.csproj",
+        "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Ecomerce\\ECommerce.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\aliss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -323,11 +323,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projetos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj": {
-                "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Data\\ECommerce.Data.csproj"
+              "C:\\Projetos\\Ecomerce\\ECommerce.Data\\ECommerce.Data.csproj": {
+                "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Data\\ECommerce.Data.csproj"
               },
-              "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-                "projectPath": "D:\\Projetos\\ECommerce\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Ecomerce\\ECommerce.Domain\\ECommerce.Domain.csproj"
               }
             }
           }
